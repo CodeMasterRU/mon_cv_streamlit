@@ -21,7 +21,7 @@ PAGE_TITLE = "CV | Vitaly Skvortsov"
 PAGE_ICON = ":wave:"
 NAME = "Vitaly Skvortsov"
 DESCRIPTION = """
-Senior Data Engineer, Mentor à Paris Ynov Campus.
+Data Engineer, Mentor à Paris Ynov Campus.
 """
 EMAIL = "vitaly.skvortsov17@gmail.com"
 SOCIAL_MEDIA = {
@@ -81,7 +81,7 @@ st.write(
     """
 Java | Php | Python (POO, bibliothèques de
 Data) | Golang | C# | C++ | Javascript |
-Html| Css | Git | Dart/Flutter | Symfony
+HTML | CSS | Git | Dart/Flutter | Symfony
 | SQL | NoSQL | Gestion de DevOps |
 Maths DataScience | Docker | UX/UI | La gestion de reseaux, (windows server,
 ubuntu, debian)
@@ -138,16 +138,16 @@ st.write("- ➖ La problématique :")
 st.write("- Est-ce que les types de restaurants des pays d'Europe influent-ils sur l'IMC? le travail avec les datasets et la réponse à ce problème à l'aide de données")
 st.write("- - 🛠 Technologies: plotly, matplotlib, numpy, pandas")
 st.write("- ➖ Scraping des données de carrefour et les affichage sur Streamlit avec des graphiques")
-st.write("- - 🛠 Technologies: selenium, streamlit, mongodb")
+st.write("- - 🛠 Technologies: Selenium, Streamlit, MongoDb")
 
 
 
 st.write("🏴 Les jeux:")
 
 st.write("- ➖ Pacman Web")
-st.write("- - 🛠 Technologies: pure JS, POO en JS")
+st.write("- - 🛠 Technologies: Pure JS, POO en JS")
 st.write("- ➖ Le jeu des dames avec une interface graphique")
-st.write("- - 🛠 Technologies: POO Java, gestion de sockets, BDD")
+st.write("- - 🛠 Technologies: POO Java, Gestion de sockets, BDD")
 
 
 st.write("🏴 Web développement:")
@@ -157,7 +157,7 @@ st.write("- - 🛠 Technologies: Golang")
 st.write("- ➖ Le site Forum")
 st.write("- - 🛠 Technologies: PHP, sql")
 st.write("- ➖ L'affichage des données mongodb sur une page Web et les filtrer, la barre de recherche")
-st.write("- - 🛠 Technologies: html, css, JS, express, NOsql")
+st.write("- - 🛠 Technologies: HTML, CSS, JS, Express, NoSql")
 
 # st.write("#")
 st.write("---")
