@@ -173,7 +173,7 @@ st.write("---")
 # st.write("#")
 
 st.subheader("Intérêts")
-st.write("- ⚽️ | 🏀 | 🥊 | 🦾 | 🎧 | 🎵 | 🌿")
+st.write("- ⚽️ | 🏀 | 🥊 | 🦾 | 🎧 | 🎵")
 
 # st.write('\n')
 # st.subheader("Projects & Accomplishments")
